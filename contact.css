@@ -1,0 +1,129 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/56978C48-B741-4E98-A774-71DF76873C0E.JPG");
+  background-position: 100% 0%;
+  background-size: 105%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  letter-spacing: 3px;
+  line-height: 1.23;
+  font-weight: normal;
+  margin: 158px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 342px;
+  width: 557px;
+  margin: 22px auto 60px;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-size: 1rem;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-size: auto 105%;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 136px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 570px;
+    margin-top: 8px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    width: 132px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    background-position: 83.76% 0%;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-top: 132px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 494px;
+    margin-top: 19px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    background-position: 67.43% 0%;
+    background-size: auto 115%;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 119px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 41px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 65.4% 3.33%;
+    background-size: auto 105%;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 376px;
+    margin-top: 13px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 0.875rem;
+  }
+}@font-face {
+  font-family: 'GraphikRegular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/GraphikRegular.otf);
+}@font-face {
+  font-family: 'NantesWebTrial-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/NantesWebTrial-Bold.woff);
+}@font-face {
+  font-family: 'NantesWebTrial-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/NantesWebTrial-Regular.woff);
+}
